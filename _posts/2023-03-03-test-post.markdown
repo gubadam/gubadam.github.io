@@ -5,6 +5,8 @@ date:   2023-03-03 15:45:00 +0100
 categories: test jekyll
 ---
 
+{{page.categories | capitalize | join: ', '}}
+
 Test powershell snippet
 
 ```PowerShell
