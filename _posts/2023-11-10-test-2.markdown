@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Test post 2!"
 date:   2023-11-10 12:31 +0100
 categories: test jekyll
