@@ -3,6 +3,7 @@ layout: post
 title:  "Test post!"
 date:   2023-03-03 15:45:00 +0100
 categories: test jekyll
+tags: test jekyll
 ---
 
 {{page.categories | capitalize | join: ', '}}
