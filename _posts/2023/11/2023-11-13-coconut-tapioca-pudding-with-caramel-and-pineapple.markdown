@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Coconut Tapioca Pudding with Caramel and Pineapple"
-categories: cooking desserts
+categories: cooking-desserts
 tags: caramel tapioca pineapple
 ---
 
