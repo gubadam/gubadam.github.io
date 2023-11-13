@@ -6,8 +6,6 @@ categories: cooking
 tags: test jekyll
 ---
 
-{{page.categories | capitalize | join: ', '}}
-
 Test powershell snippet
 
 ```PowerShell
