@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Coconut Tapioca Pudding with Caramel and Pineapple"
-date:   2023-11-13 10:00:00 +0100
 categories: cooking desserts
 tags: caramel tapioca pineapple
 ---
