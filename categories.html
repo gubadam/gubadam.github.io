@@ -5,7 +5,7 @@ title: 'Categories'
 
 {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
 
-{%- capture site_tags -%}
+{%- capture site_categories -%}
     {%- for category in site.categories -%}
         {{- category | first -}}{%- unless forloop.last -%},{%- endunless -%}
     {%- endfor -%}
