@@ -28,7 +28,7 @@ url: "gubadam.github.io" # the base hostname & protocol for your site, e.g. http
 github_username:  gubadam
 
 # Build settings
-theme: jekyll-theme-chirpy
+remote_theme: cotes2020/jekyll-theme-chirpy
 
 plugins:
   - jekyll-feed
