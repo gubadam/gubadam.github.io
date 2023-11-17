@@ -23,7 +23,8 @@ This is a list of materials I found useful while learning PowerShell.
 ### ShouldProcess; WhatIf; Confirm;
 Source: [Everything you wanted to know about ShouldProcess](https://learn.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-shouldprocess)
 ```powershell
-## Adding support for -WhatIf and -Confirm. Our function will also set those params for all cmdlets it's calling if they support it.
+## Adding support for -WhatIf and -Confirm. 
+## Our function will also set those params for all cmdlets it's calling if they support it.
 function Test-ShouldProcess {
     [CmdletBinding(SupportsShouldProcess)]
     param()
