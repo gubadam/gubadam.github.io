@@ -6,6 +6,8 @@ tags:
 date: 2023-11-13 11:00:00 +1:00
 ---
 
+{:toc}
+
 This is a list of materials I found useful while learning PowerShell.
 
 ## Docs
