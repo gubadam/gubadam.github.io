@@ -36,9 +36,7 @@ minima:
 plugins:
   - jekyll-feed
 
-markdown: kramdown
-kramdown:
-  syntax_highlighter: rouge
+markdown: redcarpet
 
 # Exclude from processing.
 # The following items will not be processed, by default.
