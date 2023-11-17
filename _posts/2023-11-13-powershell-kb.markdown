@@ -6,7 +6,7 @@ tags:
 date: 2023-11-13 11:00:00 +1:00
 ---
 
-# Table of contents
+<!-- # Table of contents -->
 * this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
