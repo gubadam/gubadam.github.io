@@ -36,10 +36,8 @@ minima:
 plugins:
   - jekyll-feed
 
-markdown: redcarpet
-highlighter: pygments
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+markdown: kramdown
+highlighter: rouge
 
 # Exclude from processing.
 # The following items will not be processed, by default.
