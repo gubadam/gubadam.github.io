@@ -3,6 +3,5 @@
 ---
 
 @import
-  "minima/syntax-highlighting",
   "minima/skins/{{ site.minima.skin | default: 'dark' }}",
   "minima/initialize";
