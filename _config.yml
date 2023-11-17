@@ -31,7 +31,7 @@ github_username:  gubadam
 remote_theme: jekyll/minima
 
 minima:
-  skin: solarized-dark
+  skin: dark
 
 plugins:
   - jekyll-feed
