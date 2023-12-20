@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Kimchi"
+categories: cooking-fermenting
+tags: kimchi
+date: 2023-12-20 12:00:00 +1:00
+---
+
+## Ingredients
+
+### Cabbage prep
+- 1 head of Napa cabbage
+- 1/4 cup of table salt
+- 1 cup of water
+
+### Kimchi paste
+- 3/4 cup of water
+- 1 tablespoon of grated ginger
+- 3 cloves of garlic, minced
+- 1 tablespoon of sugar
+- 3-6 tablespoons of gochugaru (red chili pepper flakes, adjust to taste)
+- 2 carrots, thinly sliced
+- 4 tablespoon of soy sauce
+
+## Recipe
+1. Prepare the cabbage:
+  - Cut the Napa cabbage into pieces.
+  - Dissolve the table salt in a cup of water and pour it over the cabbage.
+  - Let it sit for 1-2 hours to soften and release its juices.
+2. Prepare the Marinade:
+  - Mix water, soy sauce, grated ginger, minced garlic, sugar, and gochugaru in a bowl.
+3. Combine the Ingredients:
+  - Add the cabbage to the marinade, and then add the carrots. Mix everything thoroughly.
+4. Fermentation:
+  - Transfer the mixture to a jar, pressing down the ingredients.
+  - Ensure the cabbage doesn't protrude above the liquid to avoid molding. If it does, top the jar with some of the salty water from the 1st step.
+  - Cover the jars with lids, but do not tighten them, so the gasses can escape during the first fermentation.
+  - After 3-5 days, tighten the jars and put them in the fridge.
+  - Kimchi is ready to eat, but it gets better with time. I suggest waiting at least 2-3 weeks, preferably a month.
